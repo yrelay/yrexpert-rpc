@@ -26,9 +26,6 @@
   "licenses": [
     "GPL-3.0"
   ],
-  "scripts": {
-    "postinstall": "node postinstall/install"
-  },
   "bugs": {
     "url": "https://github.com/yrelay/yrexpert-rpc/issues"
   }
