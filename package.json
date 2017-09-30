@@ -1,0 +1,53 @@
+{
+  "name": "yrexpert-rpc",
+  "version": "0.0.1",
+  "description": "Interface yrexpert RPC pour une utilisation avec yrexpert-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrelay/yrexpert-rpc.git"
+  },
+  "author": {
+    "name": "Yrelay",
+    "email": "info@yrelay.fr"
+  },
+  "licenses": [
+    "GPL-3.0"
+  ],
+  "dependencies": {
+    "uuid": ""
+  },
+  "homepage": "https://github.com/robtweed/yrelay/yrexpert-RPC",
+  "bugs": {
+    "url": "https://github.com/yrelay/yrexpert-rpc/issues"
+  },
+  "gitHead": "9d4967baefcff8bf50702d7952a3d9ec30ba2ce9",
+  "_id": "yrexpert-rpc@0.0.7",
+  "_shasum": "5d395255b96c0d6862b766d9d7685afb7b312c94",
+  "_from": "yrexpert-rpc@latest",
+  "_npmVersion": "2.14.12",
+  "_nodeVersion": "4.2.4",
+  "_npmUser": {
+    "name": "yrelay",
+    "email": "info@yrelay.fr"
+  },
+  "dist": {
+    "shasum": "5d395255b96c0d6862b766d9d7685afb7b312c94",
+    "tarball": "https://registry.npmjs.org/yrexpert-rpc/-/yrexpert-rpc-0.0.7.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "yrelay",
+      "email": "info@yrelay.fr"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/yrexpert-rpc-0.0.7.tgz_1480855345214_0.7092048195190728"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/yrexpert-rpc/-/yrexpert-rpc-0.0.7.tgz"
+}
