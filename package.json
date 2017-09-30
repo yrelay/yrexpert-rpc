@@ -1,6 +1,6 @@
 {
   "name": "yrexpert-rpc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Interface yrexpert RPC pour une utilisation avec yrexpert-js",
   "main": "index.js",
   "scripts": {
