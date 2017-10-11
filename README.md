@@ -1,4 +1,9 @@
+![yrexpert_logo.png](./images/yrexpert_logo.png)
+
 # Accès REST aux RPCs de YRexpert... 
+
+[![npm version][npm-image]][npm-url]
+[![npm downloads][downloads-image]][downloads-url]
 
 Cette arborescence fournit le module d'accès REST aux RPCs de yrexpert et les outils que vous aurez besoin pour l'adapter à votre application. Elle est maintenue par Yrelay et diffusée sous licence libre. Cette version comprend des contributions communautaires libres acceptées par Yrelay.
 
@@ -203,5 +208,9 @@ Pour remonter un bug : [https://github.com/yrelay/yrexpert-term/issues](https://
 * Yrelay Référentiels : [https://code.yrelay.fr/](https://code.yrelay.fr/)
 * Yrelay Github : [https://github.com/Yrelay/](https://github.com/Yrelay/)
 
+[npm-image]: https://img.shields.io/npm/v/yrexpert-rpc.svg
+[npm-url]: https://npmjs.org/package/yrexpert-rpc
+[downloads-image]: https://img.shields.io/npm/dm/yrexpert-rpc.svg
+[downloads-url]: https://npmjs.org/package/yrexpert-rpc
 
 
